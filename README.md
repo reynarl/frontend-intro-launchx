@@ -1,6 +1,7 @@
 # Practicas de Intro a Frontend
 
 **Caso: Abogabot**
+
 Descripción: 
 - Es un despacho de abogados que quiere automatizar las demandas de sus clientes, esto lo harán a traves de una página web llenando un formulario.
 - Al momento de llenar el formulario se manda al proceso de pago para finalizar la transacción.
@@ -17,4 +18,5 @@ Descripción:
 1. [Requerimientos](https://docs.google.com/document/d/1b09-tHfi4FkOB7Bbz1-BC9Ae29Snv4O70lGEmf5B0_E/edit?usp=sharing)
 2. [Buyer Persona](https://www.hubspot.es/make-my-persona?persona=-Mx1sCl-M5g3zohPleK0)
 3. [Publico Objetivo](https://miro.com/app/board/uXjVOJb6ZBw=/?invite_link_id=557504384722)
-
+4. [Wireframe UX](https://www.figma.com/file/gGUUjAzKwkYoWA2XklPHo3/Untitled?node-id=0%3A1)
+5. [UI](https://www.figma.com/file/jtSA1fjDd0I8RGcrIYloVg/Untitled?node-id=0%3A1)
